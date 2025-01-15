@@ -1,7 +1,7 @@
 # frozen_string_literal: true
 
 module RgGen
-  module PluginTemplate
+  module RISCV
     VERSION = '0.1.0'
   end
 end
